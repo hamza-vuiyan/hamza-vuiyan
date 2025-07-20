@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android App/ Web app Development
 - 🌱 I’m currently doing Competitive Programming
 - 💞️ I’m looking for collaborating on some open source projects
-- 📫 How to reach me ? You connect with me in LinkedIn https://www.linkedin.com/in/amirhamzah19/
+- 📫 Want to reach me ? You can connect with me in LinkedIn https://www.linkedin.com/in/amirhamzah19/
 
 <!---
 hamza-vuiyan/hamza-vuiyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
