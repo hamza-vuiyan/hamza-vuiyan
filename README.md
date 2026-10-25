@@ -26,4 +26,4 @@ I'm an **ICT undergraduate** interested in **software engineering, backend devel
 
 ### 📫 Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/amirhamzah19/) · [GitHub](https://github.com/hamza-vuiyan)
+[LinkedIn](https://www.linkedin.com/in/amirhamzah19/)
